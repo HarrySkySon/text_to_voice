@@ -1,35 +1,29 @@
 
 # Text to Voice Converter
 
-Ця програма — простий графічний інтерфейс (GUI) для конвертації тексту в мову, написаний на Python з використанням бібліотеки Tkinter. Вона використовує бібліотеку gTTS (Google Text-to-Speech) для перетворення тексту в аудіо та pydub для маніпуляції з аудіофайлами.
+This program is a simple graphical user interface (GUI) for converting text to speech written in Python using the Tkinter library. It uses the gTTS (Google Text-to-Speech) library to convert text to audio and pydub to manipulate audio files.
 
-## Функції
+## Functions
 
-- Введення тексту для конвертації.
-- Вибір мови для генерації мови.
-- Збереження згенерованого аудіофайлу на вашому комп'ютері.
+- Input text to convert.
+- Selecting a language for speech generation.
+- Save the generated audio file to your computer.
 
-## Вимоги
+## Requirements
 
-- Python 3.x
-- Бібліотеки gTTS і pydub (можна встановити через pip):
+- Python 3.x.
+- The gTTS and pydub libraries (can be installed via pip):
  
 	pip install gTTS pydub
    
-## Використання
+## Usage.
 
-1. Завантажте або клонуйте репозиторій.
-2. Запустіть програму командою:
+1. Download or clone the repository.
+2. Run the program with the command:
 
 	python test.py
 	
 	
-3. Введіть текст, виберіть мову, і натисніть кнопку для конвертації.
+3. Enter the text, select the language, and click the button to convert.
 
-## Ліцензія
-
-Ця програма ліцензована під ліцензією GPL-2.0.
-
-## Контакти
-
-Для запитів або пропозицій, будь ласка, зв'яжіться з HarrySkySon.
+## License
