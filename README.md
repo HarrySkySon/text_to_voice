@@ -26,4 +26,6 @@ This program is a simple graphical user interface (GUI) for converting text to s
 	
 3. Enter the text, select the language, and click the button to convert.
 
-## License
+## Run a file on the Windows system
+
+You can also download the compiled .exe file for Windows at this link https://github.com/HarrySkySon/text_to_voice/releases/tag/text_to_voice
